@@ -1,4 +1,14 @@
 nodeCcompiler
 =============
 
-online c compiler using node.js and express.js
+online c compiler using 
+    
+      node.js 
+    
+    
+      express.js
+
+
+
+TODO:
+      provide compiler output to user and then program execution:
