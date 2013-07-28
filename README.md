@@ -4,10 +4,10 @@ nodeCcompiler
 online c compiler using 
     
       node.js 
-    
-    
       express.js
-
+To install dependencies:
+    
+      npm install -d
 
 
 TODO:
